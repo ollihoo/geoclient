@@ -1,0 +1,24 @@
+{
+  "name": "geoclient",
+  "version": "1.0.0",
+  "description": "Consumer of geohierarchyGraph; it shows all attractions in a given city.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ollihoo/geoclient.git"
+  },
+  "keywords": [
+    "geohierarchy",
+    "attraction",
+    "geo"
+  ],
+  "author": "Oliver Hoogvliet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ollihoo/geoclient/issues"
+  },
+  "homepage": "https://github.com/ollihoo/geoclient#readme"
+}
